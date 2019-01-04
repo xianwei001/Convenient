@@ -1,4 +1,4 @@
-# Convenient  Sports 
+# Convenient Sports Helper
 This is an app for counting the competition.
 You can use this app to record any competitions you want to record, and you can set up all the usual contestants in advance, so that you can start the competition statistics directly.
 The app has two teams in each competition, each team has at most four players.
